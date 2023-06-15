@@ -1,4 +1,9 @@
+[webServers]
 jtokad@128.10.120.183
 jtokad@128.10.120.222
-jtokad@128.10.120.244
+
+[dbServers]
 jtokad@128.10.120.232
+
+[fileServers]
+jtokad@128.10.120.244
